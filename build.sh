@@ -4,7 +4,7 @@
 
 echo "Building the Prpject ..."
 python -m pip install -r requirement.txt
-
+pip install django
 #Run
 
 echo "Make Migration..."
